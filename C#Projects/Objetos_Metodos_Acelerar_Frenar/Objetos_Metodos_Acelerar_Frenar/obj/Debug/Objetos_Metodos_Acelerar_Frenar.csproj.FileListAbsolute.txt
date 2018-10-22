@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\bin\Debug\Objetos_Metodos_Acelerar_Frenar.exe.config
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\bin\Debug\Objetos_Metodos_Acelerar_Frenar.exe
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\bin\Debug\Objetos_Metodos_Acelerar_Frenar.pdb
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\obj\Debug\Objetos_Metodos_Acelerar_Frenar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\obj\Debug\Objetos_Metodos_Acelerar_Frenar.exe
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\obj\Debug\Objetos_Metodos_Acelerar_Frenar.pdb
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos_Acelerar_Frenar\Objetos_Metodos_Acelerar_Frenar\obj\Debug\Objetos_Metodos_Acelerar_Frenar.csprojAssemblyReference.cache

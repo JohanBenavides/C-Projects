@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\bin\Debug\Objetos_Atributos.exe.config
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\bin\Debug\Objetos_Atributos.exe
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\bin\Debug\Objetos_Atributos.pdb
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\obj\Debug\Objetos_Atributos.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\obj\Debug\Objetos_Atributos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\obj\Debug\Objetos_Atributos.exe
+C:\Users\Usuario\Documents\C#Projects\Objetos_Atributos\Objetos_Atributos\obj\Debug\Objetos_Atributos.pdb

@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\bin\Debug\Objetos_Metodos.exe.config
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\bin\Debug\Objetos_Metodos.exe
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\bin\Debug\Objetos_Metodos.pdb
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\obj\Debug\Objetos_Metodos.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\obj\Debug\Objetos_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\obj\Debug\Objetos_Metodos.exe
+C:\Users\Usuario\Documents\C#Projects\Objetos_Metodos\Objetos_Metodos\obj\Debug\Objetos_Metodos.pdb
